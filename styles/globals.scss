@@ -1,0 +1,13 @@
+@use "utils/reset";
+@import "utils/main";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: $dark;
+}
